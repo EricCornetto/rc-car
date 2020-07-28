@@ -1,12 +1,12 @@
 # rc-car
 Remote Controller Car Project build by raspberry pi
 
-#Configuration :
+# Configuration :
 LEFT MOTOR PIN GPIO : 19,26
 RIGTH MOTOR PIN GPIO : 20,21
 
 
-#Pre-Prerequisites :
+# Pre-Prerequisites :
 
 Xbox Controller version :
 If you want to used xbox controller to controlling the rc-car you have to install fews of packages like xpadneo (if you used xbox one controller) and xbox360controller
@@ -23,5 +23,5 @@ b. Install xbox360controller
  
  pip3 install -U xbox360controller
  
- #Run Program :
+ # Run Program :
  python3 rccar_xbox.py
