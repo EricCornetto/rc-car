@@ -2,8 +2,8 @@
 Remote Controller Car Project build by raspberry pi
 
 # Configuration :
-LEFT MOTOR PIN GPIO : 19,26
-RIGTH MOTOR PIN GPIO : 20,21
+- LEFT MOTOR PIN GPIO : 19,26
+- RIGTH MOTOR PIN GPIO : 20,21
 
 
 # Pre-Prerequisites :
